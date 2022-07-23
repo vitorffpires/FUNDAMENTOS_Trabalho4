@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Auxiliar
+comment0.text=\r\n\ A\ classe\ Auxiliar\ cont\u00E9m\ os\ subprogramas\ utilizados\ pela\ classe\ MainApp.\r\n\ \r\n\ @author\ (vitor\ pires)\ \r\n\ @version\ (1.0)\r\n\ @date\ (2021-06-17)\r\n
+comment1.params=matriz\ linha\ coluna\ numero
+comment1.target=boolean\ verificarLinha(int[][],\ int,\ int,\ int)
+comment1.text=\r\n\ O\ m\u00E9todo\ verificarLinha\ garante\ que\ n\u00E3o\ tem\ numeros\ repetidos\ na\ mesma\ linha\r\n\ @param\ matriz\r\n\ @param\ linha\r\n\ @param\ coluna\r\n\ @param\ numero\r\n\ @return\ boolean\r\n
+comment2.params=matriz\ linha\ coluna\ numero
+comment2.target=boolean\ verificarColuna(int[][],\ int,\ int,\ int)
+comment2.text=\r\n\ O\ m\u00E9todo\ verificarColuna\ garante\ que\ n\u00E3o\ tem\ numeros\ repetidos\ na\ mesma\ coluna\r\n\ @param\ matriz\r\n\ @param\ linha\r\n\ @param\ coluna\r\n\ @param\ numero\r\n\ @return\ boolean\r\n
+comment3.params=matriz\ linha\ coluna\ numero
+comment3.target=boolean\ verificarBox(int[][],\ int,\ int,\ int)
+comment3.text=\r\n\ O\ m\u00E9todo\ verificarBox\ garante\ que\ n\u00E3o\ tem\ numeros\ repetidos\ no\ mesmo\ Box\r\n\ @param\ matriz\r\n\ @param\ linha\r\n\ @param\ coluna\r\n\ @param\ numero\r\n\ @return\ boolean\r\n
+comment4.params=slots\ matriz
+comment4.target=boolean[][]\ numeroFixo(boolean[][],\ int[][])
+comment4.text=\r\n\ O\ m\u00E9todo\ numeroFixo\ faz\ com\ que\ os\ n\u00FAmeros\ pr\u00E9\ definidos\ n\u00E3o\ possam\ ser\ alterados\r\n\ @param\ slots\r\n\ @param\ matriz\r\n\ @return\ boolean\r\n
+comment5.params=matriz
+comment5.target=boolean\ verificaTabuleiroCompleto(int[][])
+comment5.text=\r\n\ O\ m\u00E9todo\ verificaTabuleiroCompleto\ testa\ se\ o\ jogador\ venceu\ o\ jogo\r\n\ @param\ matriz\r\n\ @return\ boolean\r\n
+numComments=6
